@@ -1,7 +1,7 @@
 {
   "name": "medlor-virtual-list",
-  "version": "2.1.4",
-  "description": "A tiny but mighty list virtualization component, with zero dependencies 💪",
+  "version": "0.1.0",
+  "description": "A virtual list",
   "main": "build/medlor-virtual-list.cjs.js",
   "module": "build/medlor-virtual-list.es.js",
   "jsnext:main": "build/medlor-virtual-list.es.js",
@@ -64,29 +64,17 @@
     "typescript": "^3.3.3"
   },
   "author": {
-    "name": "Clauderic Demers",
-    "email": "me@ced.io"
+    "name": "Chad Michael",
+    "email": "chad@medlor.com"
   },
-  "user": "clauderic",
-  "homepage": "https://github.com/clauderic/medlor-virtual-list",
+  "user": "chadacious",
+  "homepage": "https://github.com/chadacious/medlor-virtual-list",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/clauderic/medlor-virtual-list.git"
+    "url": "https://github.com/chadacious/medlor-virtual-list.git"
   },
   "bugs": {
-    "url": "https://github.com/clauderic/medlor-virtual-list/issues"
-  },
-  "keywords": [
-    "react",
-    "reactjs",
-    "react-component",
-    "virtual",
-    "list",
-    "scrolling",
-    "infinite",
-    "virtualized",
-    "virtualization",
-    "windowing"
-  ]
+    "url": "https://github.com/chadacious/medlor-virtual-list/issues"
+  }
 }
